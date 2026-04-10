@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be4c8fd4-9066-40e3-a9aa-1230c1675558" alt="Captura de tela" width="100%">
+</p>
+
+
 # 🛡️ Miniguia: Segurança Avançada em APIs com JWT e Spring Boot
 
 Este repositório é o resultado de um projeto prático desenvolvido para o **Bootcamp GenAI & Dados da DIO**. O objetivo foi utilizar o **NotebookLM** como uma ferramenta de aprendizagem ativa para aprofundar conhecimentos em segurança de aplicações Java, focando em autenticação moderna e mitigação de riscos.
